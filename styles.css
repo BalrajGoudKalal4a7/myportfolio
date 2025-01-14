@@ -68,3 +68,13 @@ footer {
   font-size: 0.9em;
   color: #555;
 }
+
+.profile-img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
